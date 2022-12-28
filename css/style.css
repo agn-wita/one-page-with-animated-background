@@ -1,0 +1,18 @@
+body {
+    background-image: url("../img/spaceman.jpg");
+    color: white;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    font-weight: 700;
+    font-family: inherit;
+    border: none;
+    letter-spacing: 1px;
+}
