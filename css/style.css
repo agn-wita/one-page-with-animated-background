@@ -21,3 +21,7 @@ body {
     letter-spacing: 1px;
     font-family: inherit;
 }
+
+.underline {
+    border-bottom: solid 3px white;
+}
