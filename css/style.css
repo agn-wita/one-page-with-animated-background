@@ -4,14 +4,21 @@
 }
 
 body {
-    background-image: url("https://media.giphy.com/media/WQNiSTYU9IlaErv55B/giphy-downsized-large.gif");
+    margin: 0;
     color: white;
-    background-size: cover;
-    background-position: center;
     text-align: center;
     /* font-family: 'Barlow', sans-serif; */
     font-family: space-age;
 }
+
+.intro {
+    background-image: url("https://media.giphy.com/media/WQNiSTYU9IlaErv55B/giphy-downsized-large.gif");
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    margin-bottom: 5px;
+}
+
 .btn {
     padding: 6px 12px;
     background: rgb(180, 139, 95);
@@ -25,4 +32,13 @@ body {
 
 .underline {
     border-bottom: solid 3px white;
+}
+
+.title {
+    margin-top: 0;
+}
+
+.subtitle {
+    color: rgb(40, 40, 40);
+    margin-top: 0;
 }
