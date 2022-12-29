@@ -1,8 +1,8 @@
-One page site with animated background
+# One page site with animated background
 
-The project included one page with image and text
+## The project included one page with image and text
 
-I've learned:
+## I've learned:
 - background image
 - webp format
 - Google fonts
