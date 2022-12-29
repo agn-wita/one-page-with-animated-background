@@ -1,6 +1,6 @@
 # One page site with animated background
 
-## The project included one page with image and text
+## The project contain one page with image and text
 
 ## I've learned:
 - background image
